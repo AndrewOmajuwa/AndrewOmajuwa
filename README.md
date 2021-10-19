@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AndrewOmajuwa
+- 👀 I’m interested in ... Programming. More specifically developing applications and Websites.
+- 🌱 I’m currently diving deeper into learning ... React Native and Python.
+- 💞️ I’m looking to collaborate on ... Projects of a challenging nature.
+- 📫 How to reach me ... Omajuwaandrew@gmail.com
